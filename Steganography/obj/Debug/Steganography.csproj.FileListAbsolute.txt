@@ -1,0 +1,5 @@
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography\bin\Debug\Steganography.dll
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography\bin\Debug\Steganography.pdb
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography\obj\Debug\Steganography.dll
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography\obj\Debug\Steganography.pdb
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography\obj\Debug\Steganography.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\bin\Debug\Steganography_Using_LSB.exe
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\bin\Debug\Steganography_Using_LSB.pdb
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\App.g.cs
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB_MarkupCompile.cache
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.g.resources
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.Properties.Resources.resources
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.csproj.GenerateResource.Cache
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.exe
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.pdb
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\App.baml
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\bin\Debug\Steganography.dll
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\bin\Debug\Steganography.pdb
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.csprojResolveAssemblyReference.cache
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\MainWindow.baml
+C:\Users\Kindness\documents\visual studio 2010\Projects\Steganography_Using_LSB\Steganography_Using_LSB\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Kindness\Documents\Visual Studio 2010\Projects\Steganography_Using_LSB_Git\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.exe
+C:\Users\Kindness\Documents\Visual Studio 2010\Projects\Steganography_Using_LSB_Git\Steganography_Using_LSB\obj\x86\Debug\Steganography_Using_LSB.pdb
